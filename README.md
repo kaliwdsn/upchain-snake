@@ -2,12 +2,13 @@
 
 ## upchain-snake 演示地址
  > https://snake.tokenwhy.com/
- 
+
 ## upchain-snake 项目结构
  > solana-token 基于solana的token
 
 ## upchain-snake 设计理念
-
+ ### 经济模型
+ >SOL购买门票【NFT】然后通过游戏获取到Token【solana token代币】
  ### 原则
  > 涉及一款贪吃蛇2d游戏，接入solana区块链，使玩家在娱乐的同时获取收益，游戏采用链上+链下相结合的方式实现游戏整体逻辑
 
